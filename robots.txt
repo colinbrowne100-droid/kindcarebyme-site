@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kindcarebyme.ie/sitemap.xml
